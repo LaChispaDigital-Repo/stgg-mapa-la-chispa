@@ -1,1 +1,0 @@
-# stgg-mapa-la-chispa
