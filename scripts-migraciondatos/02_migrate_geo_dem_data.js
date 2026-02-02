@@ -75,7 +75,7 @@ async function updateUnidadVecinalStats(id_uv, stats) {
   if (error) console.error(`Error updating stats for UV ${id_uv}:`, error.message);
   return data;
 }
-
+/*
 // --- Phase 1: Process GeoJSON files ---
 async function processGeoJSONFiles() {
   console.log('\n--- Iniciando Fase 1: Procesando archivos GeoJSON ---');
@@ -120,6 +120,7 @@ async function processGeoJSONFiles() {
   }
   console.log('--- Fase 1: Procesamiento de GeoJSON completado ---');
 }
+*/
 
 // --- Phase 2: Process Demographic data files ---
 async function processDemographicFiles() {
@@ -203,14 +204,14 @@ async function processDemographicFiles() {
       }
     }
   }
-  console.log('--- Fase 2: Procesamiento de datos demográficos completado ---');
+  console.log('--- Procesamiento de datos demográficos completado ---');
 }
 
 // --- Main Execution ---
 async function main() {
-  await processGeoJSONFiles();
+  //await processGeoJSONFiles();
   await processDemographicFiles();
-  console.log('\nMigración de datos geo y demográficos completada.');
+  console.log('\nMigración de datos demográficos completada.');
 }
 
 main().catch(console.error);
