@@ -1,0 +1,87 @@
+{    
+    "metadata":{
+        "t_reg_ca": "05",
+        "t_prov_ca": "052",
+        "t_com": "05201",
+        "t_com_nom": "ISLA DE PASCUA",
+        "totalesGenerales": {
+        "Número total de personas": 6081,
+            "Total de Hombres": 2992,
+            "Total de Mujeres": 3089,
+            "Total de personas de 0 a 5 años": 523,
+            "Total de personas de 6 a 14 años": 766,
+            "Total de personas de 15 a 64 años": 4395,
+            "Total de personas de 65 y más años": 397,
+            "Cantidad de hogares": 1962,
+            "Total viviendas": 2460
+        }
+    },
+    "datos":[
+    {
+        "NOMBRE UNIDAD VECINAL": "MOEROA",
+        "N° UNIDAD VECINAL": 2,
+        "Número total de personas": 339.0,
+        "Total de Hombres": 182.0,
+        "Total de Mujeres": 157.0,
+        "Total de personas de 0 a 5 años": 32.0,
+        "Total de personas de 6 a 14 años": 51.0,
+        "Total de personas de 15 a 64 años": 238.0,
+        "Total de personas de 65 y más años": 18.0,
+        "Cantidad de hogares": 110.0,
+        "Total viviendas": 137.0
+    },
+    {
+        "NOMBRE UNIDAD VECINAL": "HANGA ROA",
+        "N° UNIDAD VECINAL": 1,
+        "Número total de personas": 5568.0,
+        "Total de Hombres": 2711.0,
+        "Total de Mujeres": 2857.0,
+        "Total de personas de 0 a 5 años": 464.0,
+        "Total de personas de 6 a 14 años": 694.0,
+        "Total de personas de 15 a 64 años": 4040.0,
+        "Total de personas de 65 y más años": 370.0,
+        "Cantidad de hogares": 1783.0,
+        "Total viviendas": 2140.0
+    },
+    {
+        "NOMBRE UNIDAD VECINAL": "SIN DEFINICION COMUNAL",
+        "N° UNIDAD VECINAL": "NO DEF_1",
+        "Número total de personas": "*",
+        "Total de Hombres": "*",
+        "Total de Mujeres": "*",
+        "Total de personas de 0 a 5 años": "*",
+        "Total de personas de 6 a 14 años": "*",
+        "Total de personas de 15 a 64 años": "*",
+        "Total de personas de 65 y más años": "*",
+        "Cantidad de hogares": "*",
+        "Total viviendas": "*"
+    },
+    {
+        "NOMBRE UNIDAD VECINAL": "SIN DEF COMUNAL",
+        "N° UNIDAD VECINAL": "NO DEF_2",
+        "Número total de personas": 174.0,
+        "Total de Hombres": 99.0,
+        "Total de Mujeres": 75.0,
+        "Total de personas de 0 a 5 años": 27.0,
+        "Total de personas de 6 a 14 años": 21.0,
+        "Total de personas de 15 a 64 años": 117.0,
+        "Total de personas de 65 y más años": 9.0,
+        "Cantidad de hogares": 69.0,
+        "Total viviendas": 183.0
+    },
+    {
+        "NOMBRE UNIDAD VECINAL": "SIN DEFINICION COMUNAL",
+        "N° UNIDAD VECINAL": "NO DEF_3",
+        "Número total de personas": "*",
+        "Total de Hombres": "*",
+        "Total de Mujeres": "*",
+        "Total de personas de 0 a 5 años": "*",
+        "Total de personas de 6 a 14 años": "*",
+        "Total de personas de 15 a 64 años": "*",
+        "Total de personas de 65 y más años": "*",
+        "Cantidad de hogares": "*",
+        "Total viviendas": "*"
+    }
+]
+
+}
