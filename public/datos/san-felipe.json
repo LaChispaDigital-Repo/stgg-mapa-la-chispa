@@ -4,6 +4,9 @@
         "t_prov_ca": "057",
         "t_com": "05701",
         "t_com_nom": "SAN FELIPE",
+        "source": "INE",
+        "source_date": "2018-06-15",
+        "extract_date": "2026-01-29",
         "totalesGenerales": {
         "Número total de personas": 72096,
             "Total de Hombres": 34815,

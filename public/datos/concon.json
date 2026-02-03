@@ -4,6 +4,9 @@
         "t_prov_ca": "051",
         "t_com": "05103",
         "t_com_nom": "CONCON",
+        "source": "INE",
+        "source_date": "2018-06-15",
+        "extract_date": "2026-01-29",
         "totalesGenerales": {
         "Número total de personas": 40270,
             "Total de Hombres": 19376,

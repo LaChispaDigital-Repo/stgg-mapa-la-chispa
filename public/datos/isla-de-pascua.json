@@ -4,6 +4,9 @@
         "t_prov_ca": "052",
         "t_com": "05201",
         "t_com_nom": "ISLA DE PASCUA",
+        "source": "INE",
+        "source_date": "2018-06-15",
+        "extract_date": "2026-01-29",
         "totalesGenerales": {
         "Número total de personas": 6081,
             "Total de Hombres": 2992,

@@ -4,6 +4,9 @@
         "t_prov_ca": "056",
         "t_com": "05601",
         "t_com_nom": "SAN ANTONIO",
+        "source": "INE",
+        "source_date": "2018-06-15",
+        "extract_date": "2026-01-29",
         "totalesGenerales": {
         "Número total de personas": 83216,
             "Total de Hombres": 40599,

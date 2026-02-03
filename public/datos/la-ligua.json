@@ -4,6 +4,9 @@
         "t_prov_ca": "054",
         "t_com": "05401",
         "t_com_nom": "LA LIGUA",
+        "source": "INE",
+        "source_date": "2018-06-15",
+        "extract_date": "2026-01-29",
         "totalesGenerales": {
         "Número total de personas": 24894,
             "Total de Hombres": 12156,
