@@ -4,7 +4,7 @@
         "t_prov_ca": "055",
         "t_com": "05501",
         "t_com_nom": "QUILLOTA",
-        "source": "INE",
+        "source": "INE - censo 2017",
         "source_date": "2018-06-15",
         "extract_date": "2026-01-29",
         "totalesGenerales": {

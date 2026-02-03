@@ -4,7 +4,7 @@
     "t_prov_ca": "058",
     "t_com": "05804",
     "t_com_nom": "VILLA ALEMANA",
-    "source": "INE",
+        "source": "INE - censo 2017",
     "source_date": "2018-06-15",
     "extract_date": "2026-01-29",
     "totalesGenerales": {
