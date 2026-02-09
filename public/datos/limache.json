@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "058",
+        "t_com": "05802",
+        "t_com_nom": "LIMACHE",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 56145,
+            "Total de Hombres": 27348,
+            "Total de Mujeres": 28797,
+            "Total de personas de 0 a 5 años": 3382,
+            "Total de personas de 6 a 14 años": 6919,
+            "Total de personas de 15 a 64 años": 36999,
+            "Total de personas de 65 y más años": 8845,
+            "Cantidad de hogares": 19916,
+            "Total viviendas": 24799
+        }
+    },
+    "datos": []
+}

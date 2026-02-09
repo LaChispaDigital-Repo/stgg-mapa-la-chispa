@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "056",
+        "t_com": "05604",
+        "t_com_nom": "EL QUISCO",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 18971,
+            "Total de Hombres": 9088,
+            "Total de Mujeres": 9883,
+            "Total de personas de 0 a 5 años": 951,
+            "Total de personas de 6 a 14 años": 1974,
+            "Total de personas de 15 a 64 años": 11281,
+            "Total de personas de 65 y más años": 4765,
+            "Cantidad de hogares": 7727,
+            "Total viviendas": 18725
+        }
+    },
+    "datos": []
+}

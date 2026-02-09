@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "056",
+        "t_com": "05605",
+        "t_com_nom": "EL TABO",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 16260,
+            "Total de Hombres": 7915,
+            "Total de Mujeres": 8345,
+            "Total de personas de 0 a 5 años": 789,
+            "Total de personas de 6 a 14 años": 1617,
+            "Total de personas de 15 a 64 años": 9571,
+            "Total de personas de 65 y más años": 4283,
+            "Cantidad de hogares": 6787,
+            "Total viviendas": 25148
+        }
+    },
+    "datos": []
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "055",
+        "t_com": "05502",
+        "t_com_nom": "CALERA",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 50631,
+            "Total de Hombres": 24513,
+            "Total de Mujeres": 26118,
+            "Total de personas de 0 a 5 años": 2974,
+            "Total de personas de 6 a 14 años": 6095,
+            "Total de personas de 15 a 64 años": 33436,
+            "Total de personas de 65 y más años": 8126,
+            "Cantidad de hogares": 17536,
+            "Total viviendas": 19744
+        }
+    },
+    "datos": []
+}

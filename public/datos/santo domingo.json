@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "056",
+        "t_com": "05606",
+        "t_com_nom": "SANTO DOMINGO",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 13171,
+            "Total de Hombres": 6437,
+            "Total de Mujeres": 6734,
+            "Total de personas de 0 a 5 años": 810,
+            "Total de personas de 6 a 14 años": 1572,
+            "Total de personas de 15 a 64 años": 8315,
+            "Total de personas de 65 y más años": 2474,
+            "Cantidad de hogares": 4663,
+            "Total viviendas": 8895
+        }
+    },
+    "datos": []
+}

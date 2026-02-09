@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "057",
+        "t_com": "05706",
+        "t_com_nom": "SANTA MARIA",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 15134,
+            "Total de Hombres": 7325,
+            "Total de Mujeres": 7809,
+            "Total de personas de 0 a 5 años": 808,
+            "Total de personas de 6 a 14 años": 1905,
+            "Total de personas de 15 a 64 años": 9955,
+            "Total de personas de 65 y más años": 2466,
+            "Cantidad de hogares": 5362,
+            "Total viviendas": 6090
+        }
+    },
+    "datos": []
+}

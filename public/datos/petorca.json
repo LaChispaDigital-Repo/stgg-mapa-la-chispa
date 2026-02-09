@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "054",
+        "t_com": "05404",
+        "t_com_nom": "PETORCA",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 10206,
+            "Total de Hombres": 5030,
+            "Total de Mujeres": 5176,
+            "Total de personas de 0 a 5 años": 564,
+            "Total de personas de 6 a 14 años": 1092,
+            "Total de personas de 15 a 64 años": 6704,
+            "Total de personas de 65 y más años": 1846,
+            "Cantidad de hogares": 3820,
+            "Total viviendas": 5037
+        }
+    },
+    "datos": []
+}

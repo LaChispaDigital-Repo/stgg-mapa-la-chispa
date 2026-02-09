@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "054",
+        "t_com": "05403",
+        "t_com_nom": "PAPUDO",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 7561,
+            "Total de Hombres": 3766,
+            "Total de Mujeres": 3795,
+            "Total de personas de 0 a 5 años": 439,
+            "Total de personas de 6 a 14 años": 895,
+            "Total de personas de 15 a 64 años": 4903,
+            "Total de personas de 65 y más años": 1324,
+            "Cantidad de hogares": 2715,
+            "Total viviendas": 8022
+        }
+    },
+    "datos": []
+}

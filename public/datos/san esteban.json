@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "053",
+        "t_com": "05304",
+        "t_com_nom": "SAN ESTEBAN",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 20112,
+            "Total de Hombres": 9835,
+            "Total de Mujeres": 10277,
+            "Total de personas de 0 a 5 años": 1191,
+            "Total de personas de 6 a 14 años": 2635,
+            "Total de personas de 15 a 64 años": 13402,
+            "Total de personas de 65 y más años": 2884,
+            "Cantidad de hogares": 7132,
+            "Total viviendas": 8218
+        }
+    },
+    "datos": []
+}

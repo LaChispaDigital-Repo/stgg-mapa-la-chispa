@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "054",
+        "t_com": "05402",
+        "t_com_nom": "CABILDO",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 20015,
+            "Total de Hombres": 9860,
+            "Total de Mujeres": 10155,
+            "Total de personas de 0 a 5 años": 1198,
+            "Total de personas de 6 a 14 años": 2431,
+            "Total de personas de 15 a 64 años": 13186,
+            "Total de personas de 65 y más años": 3200,
+            "Cantidad de hogares": 6779,
+            "Total viviendas": 7339
+        }
+    },
+    "datos": []
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "051",
+        "t_com": "05104",
+        "t_com_nom": "JUAN FERNANDEZ",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 904,
+            "Total de Hombres": 458,
+            "Total de Mujeres": 446,
+            "Total de personas de 0 a 5 años": 904,
+            "Total de personas de 6 a 14 años": 0,
+            "Total de personas de 15 a 64 años": 0,
+            "Total de personas de 65 y más años": 0,
+            "Cantidad de hogares": 376,
+            "Total viviendas": 472
+        }
+    },
+    "datos": []
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "051",
+        "t_com": "05107",
+        "t_com_nom": "QUINTERO",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 35754,
+            "Total de Hombres": 17507,
+            "Total de Mujeres": 18247,
+            "Total de personas de 0 a 5 años": 2215,
+            "Total de personas de 6 a 14 años": 4457,
+            "Total de personas de 15 a 64 años": 23259,
+            "Total de personas de 65 y más años": 5823,
+            "Cantidad de hogares": 13113,
+            "Total viviendas": 19738
+        }
+    },
+    "datos": []
+}

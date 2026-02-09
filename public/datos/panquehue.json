@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "t_reg_ca": "05",
+        "t_prov_ca": "057",
+        "t_com": "05704",
+        "t_com_nom": "PANQUEHUE",
+        "source": "INE - censo 2024",
+        "source_date": "2025-03-27",
+        "extract_date": "2026-02-06",
+        "totalesGenerales": {
+            "Número total de personas": 7269,
+            "Total de Hombres": 3582,
+            "Total de Mujeres": 3687,
+            "Total de personas de 0 a 5 años": 415,
+            "Total de personas de 6 a 14 años": 898,
+            "Total de personas de 15 a 64 años": 4855,
+            "Total de personas de 65 y más años": 1101,
+            "Cantidad de hogares": 2442,
+            "Total viviendas": 2863
+        }
+    },
+    "datos": []
+}
