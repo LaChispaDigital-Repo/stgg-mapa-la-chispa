@@ -21,8 +21,13 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const pathCarpeta = process.argv[2];
+if (!pathCarpeta) {
+  console.error("Por favor ingresa una carpeta. (Ej: 'node 02_migrate_geo_dem_data.js /Valparaiso')");
+    process.exit(1);
+}
 const geojsonDirPath = path.join(__dirname, '../public/geojson');
-const datosDirPath = path.join(__dirname, '../public/datos');
+const datosDirPath = path.join(__dirname, '../public/datos'+pathCarpeta);
 
 // --- Helper Functions ---
 
