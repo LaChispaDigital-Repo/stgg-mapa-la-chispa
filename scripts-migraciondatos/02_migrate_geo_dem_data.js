@@ -27,7 +27,7 @@ if (!pathCarpeta) {
     process.exit(1);
 }
 const geojsonDirPath = path.join(__dirname, '../public/geojson');
-const datosDirPath = path.join(__dirname, '../public/datos'+pathCarpeta);
+const datosDirPath = path.join(__dirname, '../public/datos'+'/'+pathCarpeta);
 
 // --- Helper Functions ---
 
