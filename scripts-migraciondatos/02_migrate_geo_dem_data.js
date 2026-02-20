@@ -27,7 +27,7 @@ if (!pathCarpeta) {
     process.exit(1);
 }
 const geojsonDirPath = path.join(__dirname, '../public/geojson');
-const datosDirPath = path.join(__dirname, '../public/datos'+'/'+pathCarpeta);
+const datosDirPath = path.join(__dirname, '../public/datos'+'/'+pathCarpeta+'/geo_json');   //dirección a la carpeta con los datos sociodemográficos
 
 // --- Helper Functions ---
 
