@@ -1,0 +1,2012 @@
+[
+    {
+        "nombre":"JUNTA DE VECINOS VILLA BERLIN (UV 92)",
+        "direccion":"PJE LOS LIRIOS CASA COMUNAL V.BERLIN",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"UNION COMUNAL DE JUNTAS DE VECINOS",
+        "direccion":"ESMERALDA 1059 - 2DO. PISO - FONO 2543560",
+        "latitud":-33.0417232,
+        "longitud":-71.6248718
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CABRITERIA UV 48",
+        "direccion":"CALLE mercedes 449 CERRO LOS PLACERES",
+        "latitud":-33.032297,
+        "longitud":-71.5611635
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALFREDO PAOLINELLI",
+        "direccion":"CONQUISTA 684 C° PLACERES",
+        "latitud":-33.0403475,
+        "longitud":-71.5913808
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO BELLAVISTA (UV 23)",
+        "direccion":"BERNARDO RAMOS 339 CERRO BELLAVISTA cerrobellavistavalpo@gmail.com",
+        "latitud":-33.0490448,
+        "longitud":-71.621819
+    },
+    {
+        "nombre":"JUNTA DE VECINOS OSMAN PEREZ FREIRE- ESMERALDA (UV 142)",
+        "direccion":"POB.ESMERALDA CALLE BAHIA 2 N º 56 MARIPOSA",
+        "latitud":-33.0599392,
+        "longitud":-71.6205977
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION AÑO 1925 (UV 16)",
+        "direccion":"BELLOTO S\/N C° LAS CAÑAS",
+        "latitud":-33.0533945,
+        "longitud":-71.6077676
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SEGUNDO SECTOR CORVI PLAYA ANCHA (UV 43)",
+        "direccion":"JOSE SEREY S\/N PLAYA ANCHA",
+        "latitud":-33.0448561,
+        "longitud":-71.6519895
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA ELENA LOS POZOS (UV 97)",
+        "direccion":"CALLE MARINERO UGARTE 1001 RAMADITAS",
+        "latitud":-33.0585264,
+        "longitud":-71.5962493
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LYON EDWARDS UV 78",
+        "direccion":"CAMINO CINTURA 400 CERRO ALEGRE -",
+        "latitud":-33.0330847,
+        "longitud":-71.6367804
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JOSE MIGUEL CARRERA (UV 3)",
+        "direccion":"JOSE MIGUEL CARRERA N° 200 C° ESPERANZA",
+        "latitud":-33.0396115,
+        "longitud":-71.5830098
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION MANUEL MONTT (UV 29)",
+        "direccion":"CALLE DETECTIVE BARAHONA 341 CERRO CORDILLERA",
+        "latitud":-33.041006,
+        "longitud":-71.6417965
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO DELICIAS (UV 118)",
+        "direccion":"SIN SEDE SOCIAL",
+        "latitud":-33.0468743,
+        "longitud":-71.6391881
+    },
+    {
+        "nombre":"JUNTA DE VECINOS COMUNIDADES UNIDAS DE RODELILLO (Uv 5)",
+        "direccion":"DIEGO MONTECINOS CON RODELILLO",
+        "latitud":-33.0479676,
+        "longitud":-71.5891311
+    },
+    {
+        "nombre":"JUNTA DE VECINOS FERNANDO LESSEPS (UV 50)",
+        "direccion":"POB. 4 LUCES(SECT.PORTALES PLACERES BAJO",
+        "latitud":-33.0328356,
+        "longitud":-71.5912268
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JOHN KENNEDY (UV 42)",
+        "direccion":"AV.J.MARIA CARO S\/N 1ER.SECT.P.ANCHA",
+        "latitud":-33.0408673,
+        "longitud":-71.6511105
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALEMANIA FEDERAL (UV 147)",
+        "direccion":"RECABARREN 218 5° SECT. PLAYA ANCHA",
+        "latitud":-33.0512281,
+        "longitud":-71.6522218
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JUAN LLONA Y EL PILAR (UV 56)",
+        "direccion":"CALLE CAMPOAMOR 113 CERRO BARON",
+        "latitud":-33.0370062,
+        "longitud":-71.5946843
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA ROSA EL PAJONAL (UV 15)",
+        "direccion":"AV. JUAN FERNANDEZ 844 LAS CAÑAS",
+        "latitud":-33.0525304,
+        "longitud":-71.6077171
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION COCHRANE (UV 69)",
+        "direccion":"VICENTE BLASCO IBAÑEZ S\/N",
+        "latitud":-33.0505769,
+        "longitud":-71.6267754
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO POLANCO",
+        "direccion":"PASEO TAIBA 401 CERRO POLANCO",
+        "latitud":-33.0492538,
+        "longitud":-71.5980104
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BERNARDO OHIGGINS (UV 102)",
+        "direccion":"POBLACION LIBERTAD CALLE CAMINO 26",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION PAZ CERRO EL LITRE (UV 186)",
+        "direccion":"CALLE RUIZ TAGLE 380 EL LITRE",
+        "latitud":-33.0577464,
+        "longitud":-71.6118121
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RAMON CARNICER UV 64",
+        "direccion":"CALLE DEL CABO 202 CERRO RODELILLO",
+        "latitud":-33.0578745,
+        "longitud":-71.5782139
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MARIA EILERS (UV 88)",
+        "direccion":"CALLE 1º MAYO N° 25 POB.M. EILERS PLACERES",
+        "latitud":-33.0425188,
+        "longitud":-71.5834369
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA PLANCHADA",
+        "direccion":"LA PLANCHADA S\/N VALPARAISO",
+        "latitud":-33.0590968,
+        "longitud":-71.5801453
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CUARTO SECTOR CORVI EL TRIUNFO (uv 45)",
+        "direccion":"LAS ARAUCARIAS S\/N 470 SECTOR PLAYA A.",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS 4° SECTOR CORVI SERVICIO SEGURO SOCIAL",
+        "direccion":"4° SECTO. CALLE COPIHUES S\/N",
+        "latitud":-33.0495592,
+        "longitud":-71.6499869
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ERCILLA Y ANEXOS (UV 55)",
+        "direccion":"ELOY CAVIERES 699 CERRO BARON",
+        "latitud":-33.0415571,
+        "longitud":-71.5956344
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CHAPARRO Y CORDILLERA ALTO (UV 108)",
+        "direccion":"CALLE CHAPARRO 801",
+        "latitud":-33.0477292,
+        "longitud":-71.6404623
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MIGUEL ANGEL (UV 71)",
+        "direccion":"CALLE ALMAGRO S\/N CERRO YUNGAY",
+        "latitud":-33.0473599,
+        "longitud":-71.6243884
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO FLORIDA (UV67)",
+        "direccion":"CERRO FLORIDA CALLE MENA 624",
+        "latitud":-33.0539702,
+        "longitud":-71.6223213
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLAGRAN BAJO (UV 107)",
+        "direccion":"CALLE METEORO 899 CERRO CORDILLERA",
+        "latitud":-33.0457352,
+        "longitud":-71.6385493
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAS HABAS Y EL MEMBRILLO (UV 114)",
+        "direccion":"WADDINGGTON 712 PLAYA ANCHA",
+        "latitud":-33.0235074,
+        "longitud":-71.633621
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ABRAHAM LINCOLN (UV 150)",
+        "direccion":"CALLE BALMACEDA 26, POB. A. LINCOLN, CERRO RODELILLO",
+        "latitud":-33.0571386,
+        "longitud":-71.5768301
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALMIRANTE LATORRE (UV 66)",
+        "direccion":"PEDRO DE OÑA 5 POB. ALMTE LATO",
+        "latitud":-33.0598306,
+        "longitud":-71.6185741
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION SAN MARTIN (UV 106)",
+        "direccion":"PUERTO WILLIAMS 605 CERRO CORDILLERA",
+        "latitud":-33.0491365,
+        "longitud":-71.6441531
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MANUEL RIO FRIO",
+        "direccion":"CALLE SANTA MARTA N° 316-A",
+        "latitud":-33.0301612,
+        "longitud":-71.6426641
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA RITA - Cº YUNGAY (UV 25)",
+        "direccion":"CALLE SANTA RITA 94",
+        "latitud":-33.0567631,
+        "longitud":-71.6282729
+    },
+    {
+        "nombre":"JUNTA DE VECINOS Nº33 CERRO MESILLA VALPARAISO (UV 33)",
+        "direccion":"CALLE 12 DE JULIO 187 CERRO MESILLA",
+        "latitud":-33.0345887,
+        "longitud":-71.6362903
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO ALEGRE PARTE ALTA (UV 77)",
+        "direccion":"WILLIAMS LYON 36 CERRO ALEGRE",
+        "latitud":-33.0519768,
+        "longitud":-71.6377389
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VALLE VERDE",
+        "direccion":"CHAPARRO 1585",
+        "latitud":-33.0537815,
+        "longitud":-71.6440674
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO LAS MONJAS (UV 20)",
+        "direccion":"CALLE 13 Nº 181-A CERRO MONJAS VALPARAISO",
+        "latitud":-33.0544502,
+        "longitud":-71.6168322
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOCERAS",
+        "direccion":"SIN SEDE SOCIAL",
+        "latitud":-33.0468743,
+        "longitud":-71.6391881
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MERCED BAJO (UV 58)",
+        "direccion":"BRUNO HERNANDEZ Nº378, CERRO MERCED",
+        "latitud":-33.0587201,
+        "longitud":-71.6025592
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO MOLINO",
+        "direccion":"MAZZEY 50 CERRO MOLINO",
+        "latitud":-33.052182,
+        "longitud":-71.5985209
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ARTURO ALESSANDRI (UV 90)",
+        "direccion":"PJE MIREYA 35 CERRO PLACERES",
+        "latitud":-33.0479645,
+        "longitud":-71.6470167
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO PAJONAL (UV 14)",
+        "direccion":"PAJONAL 948 CERRO MERCED",
+        "latitud":-33.0590546,
+        "longitud":-71.6053852
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ETCHEGARAY",
+        "direccion":"ETCHEGARAY 1690 CERRO YUNGAY",
+        "latitud":-33.0473599,
+        "longitud":-71.6243884
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION VALENCIA (UV 32)",
+        "direccion":"SANTOS TORNERO 406 POB. VALENCIA PLAYA ANCHA",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN JORGE (UV 10)",
+        "direccion":"CALLE SIETE S\/N CERRO ROCUANT",
+        "latitud":-33.0527425,
+        "longitud":-71.6268068
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ARRATIA",
+        "direccion":"ARRATIA 249 CERRO BARON",
+        "latitud":-33.0443471,
+        "longitud":-71.6005428
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MC CLELLAND (UV120)",
+        "direccion":"CALLE CUESTA EL ROBLE 992 SAN ROQUE",
+        "latitud":-33.0627371,
+        "longitud":-71.5865137
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALCALDE BARRIOS Y A. MALLET (UV 113)",
+        "direccion":"CALLE GENERAL ADOLFO HOLLEY N°39, PLAYA ANCHA",
+        "latitud":-33.0255706,
+        "longitud":-71.6400528
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ESMERALDA (UV 99)",
+        "direccion":"ESMERALDA 700 CERRO RAMADITAS",
+        "latitud":-33.0666667,
+        "longitud":-71.6
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALEJANDRO TINSLEY (UV 75)",
+        "direccion":"AV. ALEMANIA 1930",
+        "latitud":-33.0613429,
+        "longitud":-71.6047521
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CAÑERIA Y ADYACENTES (UV 104)",
+        "direccion":"CAÑERIA 164 CERRO CORDILLERA",
+        "latitud":-33.0453797,
+        "longitud":-71.6420603
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ROCUANT ALTO (UV 12)",
+        "direccion":"CALLE JUAN ANTONIO RIOS N° 2 ROCUANT A",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO ARRAYAN (UV 36)",
+        "direccion":"ALMIRANTE RIVEROS Nº323 CERRO ARRAYAN",
+        "latitud":-33.0333013,
+        "longitud":-71.6345282
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VALPARAISO - BELLA ESPERANZA (UV 119)",
+        "direccion":"POB. BELLA ESPERANZA LOTE 24-B",
+        "latitud":-33.0593405,
+        "longitud":-71.5929796
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BARRIO PUERTO (UV 134)",
+        "direccion":"SAN FRANCISCO 320 BARRIO PUERTO",
+        "latitud":-33.0383682,
+        "longitud":-71.6331825
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA VIRGEN",
+        "direccion":"PADRE FEBRES 547",
+        "latitud":-33.0574554,
+        "longitud":-71.6037566
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LATINOAMERICANA",
+        "direccion":"LATINOAMERICANA LOTE EN° 1 PLACERES",
+        "latitud":-33.0446838,
+        "longitud":-71.581441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS Nº145 PLACILLA ORIENTE (UV 145)",
+        "direccion":"CALLE ARTURO PRAT 154 PLACILLA DE PEÑUELAS",
+        "latitud":-33.1163398,
+        "longitud":-71.5573361
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JAVIERA CARRERA (UV 87)",
+        "direccion":"LEONIDAS VALENZUELA LOTE 13C°PLACERES",
+        "latitud":-33.043075,
+        "longitud":-71.5866509
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PARAISOS Y ANEXOS (UV 52)",
+        "direccion":"PITAGORAS 292 CERRO BARON",
+        "latitud":-33.0446378,
+        "longitud":-71.5948951
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO PERDICES UV 37",
+        "direccion":"CAMINO CINTURA 1357 CERRO PERDICES",
+        "latitud":-33.0364361,
+        "longitud":-71.6364294
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO PERDICES UV 37",
+        "direccion":"CAMINO CINTURA 1357 CERRO PERDICES",
+        "latitud":-33.0364361,
+        "longitud":-71.6364294
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO SANTO DOMINGO (UV 34)",
+        "direccion":"Francisco Echaurren 369, Cerro Santo Domingo",
+        "latitud":-33.0346151,
+        "longitud":-71.6346447
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PLAYA ANCHA CENTRAL (UV 115)",
+        "direccion":"QUEBRADA VERDE ESQUINA REPUBLICA S\/N° PLAYA ANCHA",
+        "latitud":-33.0306492,
+        "longitud":-71.6372384
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ERNESTO QUIROZ WEBER (UV47)",
+        "direccion":"AV. PLACERES 223 CERRO PLACERES",
+        "latitud":-33.0371332,
+        "longitud":-71.5969235
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO BARON (UV 4)",
+        "direccion":"SIN SEDE SOCIAL EX MERCADO BARON VEGA S\/N°",
+        "latitud":-33.0427479,
+        "longitud":-71.5989099
+    },
+    {
+        "nombre":"JUNTA DE VECINOS HEROES DEL MAR (UV 143)",
+        "direccion":"AV.MATTA 4166 CERRO PLACERES",
+        "latitud":-33.0534854,
+        "longitud":-71.5600692
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION 18 DE SEPTIEMBRE UV 27",
+        "direccion":"AQUILES RAMIREZ ESQ. PROGRESO CERRO SAN JUAN DE DIOS",
+        "latitud":-33.0499555,
+        "longitud":-71.6267307
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA OBRA (UV 21)",
+        "direccion":"CALLE GONZALO BULNES 100 C° MARIPOSA",
+        "latitud":-33.0573338,
+        "longitud":-71.6190253
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL PROGRESO (UV 93)",
+        "direccion":"AV.MATTA 100 PROGRESO PLACERES",
+        "latitud":-33.0521955,
+        "longitud":-71.5688021
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO LA CRUZ (UV 19)",
+        "direccion":"NAYLOR 278 CERRO LA CRUZ",
+        "latitud":-33.0660559,
+        "longitud":-71.6105521
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO ALEGRE PARTE BAJA (UV 73)",
+        "direccion":"AV. TOMAS RAMOS 573 VALPARAISO",
+        "latitud":-33.042915,
+        "longitud":-71.6322212
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PLACILLA CENTRAL Y NORTE (UV 136)",
+        "direccion":"CALLE QUINTIL",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PASAJE CASABLANCA (UV 59)",
+        "direccion":"PJE CASABLANCA 202 C° MERCED PARTE B",
+        "latitud":-33.0533146,
+        "longitud":-71.6039855
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SOBERANIA Y SARA BRAUN (UV 89)",
+        "direccion":"LINCOYAN S\/N POB.SARA BRAUN LOS PLACERES",
+        "latitud":-33.0361112,
+        "longitud":-71.5935237
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RAMADITAS PARTE BAJA (UV 95)",
+        "direccion":"CALLE RAMADITAS 337",
+        "latitud":-33.0549725,
+        "longitud":-71.599817
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RAMADITAS CUESTA COLORADA (UV 98)",
+        "direccion":"RAMADITAS 1590 CERRO RAMADITAS",
+        "latitud":-33.0636867,
+        "longitud":-71.5977284
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RECREO Y RODRIGUEZ (UV 8)",
+        "direccion":"URRUTIA 1101 CERRO LARRAIN",
+        "latitud":-33.0476158,
+        "longitud":-71.5964017
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CENTRAL CORDILLERA (UV 81)",
+        "direccion":"IGLESIA PERPETUO SOCORRO, CERRO CORDILLERA",
+        "latitud":-33.0414771,
+        "longitud":-71.634532
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CENTRAL OHIGGINS (UV 100)",
+        "direccion":"Hurtado 55 Barrio OHiggins",
+        "latitud":-33.057625,
+        "longitud":-71.5955314
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AGUAS BUENAS (uv 135)",
+        "direccion":"CALLE DECIMA ESQ. AV. CENTRAL, PLACILLA DE PEÑUELAS",
+        "latitud":-33.1126695,
+        "longitud":-71.5638222
+    },
+    {
+        "nombre":"CERRO LA CRUZ",
+        "direccion":"EL VERGEL 87 CERRO LA CRUZ",
+        "latitud":-33.06358,
+        "longitud":-71.6115
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MONTEDONICO Y LAUTARO (UV 139)",
+        "direccion":"CALLE VARGAS ESTOLER S\/\/N",
+        "latitud":-33.055835,
+        "longitud":-71.6400445
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CORDILLERA CENTRAL (UV 105)",
+        "direccion":"ESLAVA 241 CERRO CORDILLERA",
+        "latitud":-33.0431834,
+        "longitud":-71.637406
+    },
+    {
+        "nombre":"JUNTA DE VECINOS GABRIELA MISTRAL (UV 101)",
+        "direccion":"CALLE JOSE FIGUEROA 27 C° SAN ROQUE",
+        "latitud":-33.0659655,
+        "longitud":-71.587301
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ROSSO (UV 1)",
+        "direccion":"BARROS ARANA 451 CASA C C° ESPERANZA",
+        "latitud":-32.9231509,
+        "longitud":-71.522797
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PUERTAS NEGRAS (UV85)",
+        "direccion":"CALLE DEL MOLO S\/N",
+        "latitud":-33.0568861,
+        "longitud":-71.6449656
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POCURO (UV 13)",
+        "direccion":"TUCAPEL ESQUINA YELCHO Nº58 CERRO MERCED",
+        "latitud":-33.0544756,
+        "longitud":-71.606167
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION MIRAMAR Y PACIFICO NORTE (UV 111)",
+        "direccion":"AV.JUAN XXIII 595 POB.MIRAMAR P. ANCHA",
+        "latitud":-33.0322621,
+        "longitud":-71.6458046
+    },
+    {
+        "nombre":"MIRANDA Y MARAMBIO",
+        "direccion":"MIRANDA 643 CERRO CORDILLERA",
+        "latitud":-33.0422445,
+        "longitud":-71.6327162
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION CHILE (UV 46)",
+        "direccion":"RODRIGO DE TRIANA LOTE 44",
+        "latitud":-33.0421335,
+        "longitud":-71.5820283
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NUEVOS HORIZONTES (UV 9)",
+        "direccion":"PASAJE SANTIAGO RAMIREZ Nº484 POBLACION FERROVIARIA, C LARRAIN",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MONJAS BAJO (UV 65)",
+        "direccion":"AV.BAQUEDANO PJE LA PAZ 11 C° MONJAS",
+        "latitud":-33.051858,
+        "longitud":-71.6188911
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN ROQUE UV N°121",
+        "direccion":"AV. BERNARDO O.HIGGINS 1502 SAN ROQUE",
+        "latitud":-33.0650481,
+        "longitud":-71.5853669
+    },
+    {
+        "nombre":"JUNTA DE VECINOS FRANCISCO NOGUETT UV 61",
+        "direccion":"BRUNO HERNANDEZ 19 CERRO MERCED",
+        "latitud":-33.0583752,
+        "longitud":-71.6021016
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ARTURO PRAT - SUDAMERICANA (UV 83)",
+        "direccion":"VILLARICA 57 VILLA PRAT P.A.",
+        "latitud":-33.0379883,
+        "longitud":-71.5482875
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO ESPERANZA (UV 2)",
+        "direccion":"LOS BOLDOS 950 CERRO ESPERANZA",
+        "latitud":-33.0612162,
+        "longitud":-71.6071941
+    },
+    {
+        "nombre":"JUNTA DE VECINOS GAS--OSSA-GRECIA (UV 125)",
+        "direccion":"MARINERO FUENTEALBA 65 CERRO FLORIDA",
+        "latitud":-33.0455099,
+        "longitud":-71.4090466
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NUEVA VICTORIA SUR (UV 151)",
+        "direccion":"PJE DEL COLEGIO 41 VILLA PRIMAVERA RODE.",
+        "latitud":-33.0535766,
+        "longitud":-71.5810588
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL LIBERTADOR SIMÓN BOLIVAR (UV 172)",
+        "direccion":"POBLACION SIMON BOLIVAR ALTO CALLE PICHANGA Nº2703",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PARAISO BAJO",
+        "direccion":"PARAISO CON BERCEO N° 213",
+        "latitud":-33.0450901,
+        "longitud":-71.5935978
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA ROSA DE RODELILLO",
+        "direccion":"PASAJE STA MONICA 74 CERRO BARON",
+        "latitud":-33.0370062,
+        "longitud":-71.5946843
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO JIMENEZ",
+        "direccion":"CALLE VISTA AL MAR 4",
+        "latitud":-33.028109,
+        "longitud":-71.6511529
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MIRAMAR BAJO (UV 110)",
+        "direccion":"AV.PACIFICO LA EXPLANADA PLAYA ANCHA",
+        "latitud":-33.0285713,
+        "longitud":-71.6502827
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SIMON BOLIVAR UV 103",
+        "direccion":"POB. BOLIVAR CORDILLERA",
+        "latitud":-33.0459601,
+        "longitud":-71.6413928
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PLACERES CENTRAL (UV 51)",
+        "direccion":"SIN SEDE SOCIAL",
+        "latitud":-33.0468743,
+        "longitud":-71.6391881
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CINCEL (UV 86)",
+        "direccion":"GERMAN RIESCO 77 CERRO LOS PLACERES",
+        "latitud":-33.0373131,
+        "longitud":-71.5930422
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TENIENTE IGNACIO SERRANO (UV 146)",
+        "direccion":"5TO. SECTOR PLAYA ANCHA",
+        "latitud":-33.048038,
+        "longitud":-71.6515882
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOS LECHEROS (UV 53)",
+        "direccion":"VALPARAISO N° 107 C° LECHEROS",
+        "latitud":-33.0441703,
+        "longitud":-71.6021905
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EMPART LAS LILAS - PORVENIR (UV 170)",
+        "direccion":"PORVENIR BAJO, PLAYA ANCHA",
+        "latitud":-33.0386766,
+        "longitud":-71.6484933
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA JAPON (UV 148)",
+        "direccion":"CALLE YOKOAMA Nº 25 CERRO LOS PLACERES",
+        "latitud":-33.0373131,
+        "longitud":-71.5930422
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CABO VERDE (UV 123)",
+        "direccion":"PJE LAS ORQUIDEAS 13-A POB. FRANKLIN",
+        "latitud":-33.0136542,
+        "longitud":-71.4988721
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA BARBARA-HUCKE (UV 91)",
+        "direccion":"WESCENLAO VARGAS 1874 PLACERES",
+        "latitud":-33.0454765,
+        "longitud":-71.580468
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN MARCOS (UV 109)",
+        "direccion":"RAMON CORDERO 768 POB.MIRAMAR P.A.",
+        "latitud":-33.0311886,
+        "longitud":-71.6503722
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PORVENIR ALTO UV 39",
+        "direccion":"POB.VISTA AL MAR BLOC 8 DEP.22 PP.ANCHA",
+        "latitud":-33.0153652,
+        "longitud":-71.5498841
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PABLO NERUDA ( UV 11)",
+        "direccion":"SAN PATRICIO 271 C° ROCUANT ALTO",
+        "latitud":-33.0690064,
+        "longitud":-71.5938334
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ELEUTERIO RAMIREZ (UV 132)",
+        "direccion":"CONDELL 1259 2DO. PISO",
+        "latitud":-33.0442363,
+        "longitud":-71.6239943
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PORVENIR BAJO (UV38)",
+        "direccion":"CALLE 5 ESQ. CALLE 2 PORVENIR BAJO PLAYA ANCHA",
+        "latitud":-33.034192,
+        "longitud":-71.6509813
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PEÑUELAS (UV 153)",
+        "direccion":"PLAZA LOS ALAMOS 158 VILLA LOS ALAMOS PEÑUELAS",
+        "latitud":-33.1495751,
+        "longitud":-71.5610348
+    },
+    {
+        "nombre":"JUNTA DE VECINOS 3° SECTOR CORVI (UV 124)",
+        "direccion":"CALLE 3° SECTOR P. ANCHA",
+        "latitud":-33.0299823,
+        "longitud":-71.6363509
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION CHILE NUEVO (UV 126)",
+        "direccion":"TRINQUETE 447 POB.CHILE NUEVO MARIPOSA",
+        "latitud":-33.0569924,
+        "longitud":-71.6213564
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA LOMA Y CERRO CARCEL (UV70)",
+        "direccion":"PRINCIPAL N° 72 CERRO LA LOMA",
+        "latitud":-33.0490013,
+        "longitud":-71.6288827
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALMTE BASILIO ROJAS (UV 24)",
+        "direccion":"BASILIO ROJAS 242 C° YUNGAY",
+        "latitud":-33.0559386,
+        "longitud":-71.6265332
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALMTE BASILIO ROJAS (UV 24)",
+        "direccion":"BASILIO ROJAS 242 C° YUNGAY",
+        "latitud":-33.0559386,
+        "longitud":-71.6265332
+    },
+    {
+        "nombre":"FEDERICO COSTA PARTE ALTA",
+        "direccion":"CALLE FEDERICO COSTA 157 CRAMADITAS",
+        "latitud":-33.0571919,
+        "longitud":-71.5981517
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAGUNA VERDE (UV 137)",
+        "direccion":"PRINCIPAL S\/N LAGUNA VERDE",
+        "latitud":-33.0471367,
+        "longitud":-71.6152737
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CORDILLERA PARTE BAJA (UV 79)",
+        "direccion":"SOCRATES CON MAZZINE C° CORDILLERA",
+        "latitud":-33.0459601,
+        "longitud":-71.6413928
+    },
+    {
+        "nombre":"JUNTA DE VECINOSPOBLACION NAPOLI CERRO EL LITRE (UV 17)",
+        "direccion":"LA FONTAINE 230 CERRO EL LITRE",
+        "latitud":-33.0537538,
+        "longitud":-71.6111709
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO CARCEL PARTE ALTA (UV 76)",
+        "direccion":"IBERIA 234 CERRO CARCEL",
+        "latitud":-33.0471229,
+        "longitud":-71.6273252
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ARTURO PRAT (UV 116)",
+        "direccion":"AVENIDA PLAYA ANCHA 201 VALPARAISO",
+        "latitud":-33.0304523,
+        "longitud":-71.6361568
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CAMINO QUEBRADA VERDE POBLACION VALENCIA",
+        "direccion":"CAMINO CINTURA C\/CAMINO QDA VERDE",
+        "latitud":-33.0402129,
+        "longitud":-71.6364813
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION VALENCIA SUR",
+        "direccion":"CALLE CAMINO QDA VERDE 281 POB.VALENCIA",
+        "latitud":-33.0358107,
+        "longitud":-71.6398887
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MEJOREROS CERRO LAS CAÑAS (UV 62)",
+        "direccion":"PASAJE 2 Nº167 C° LAS CAÑAS",
+        "latitud":-33.0533945,
+        "longitud":-71.6077676
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MEJOREROS CERRO LAS CAÑAS (UV 62)",
+        "direccion":"PASAJE 2 Nº167 C° LAS CAÑAS",
+        "latitud":-33.0533945,
+        "longitud":-71.6077676
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NAPOLI CERRO LAS CAÑAS (UV 63)",
+        "direccion":"LOS CANELOS 330 CERRO LAS CAÑAS",
+        "latitud":-33.0587246,
+        "longitud":-71.6089844
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PIEDRA AZUL CANTU (UV 94-A)",
+        "direccion":"PJE MARCIAL 41 P.AZUL BARRIO OHIGGINS",
+        "latitud":-33.0538089,
+        "longitud":-71.597059
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO CONCEPCION (UV28)",
+        "direccion":"PJE GALVEZ 184 CERRO CONCEPCION",
+        "latitud":-33.0411985,
+        "longitud":-71.6274275
+    },
+    {
+        "nombre":"JUNTA DE VECINOS INDEPENDENCIA (UV 129)",
+        "direccion":"INDEPENDENCIA 2838",
+        "latitud":-33.0504561,
+        "longitud":-71.6062434
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO TORO (UV 35)",
+        "direccion":"TORQUEMADA 33 CERRO TORO",
+        "latitud":-33.0380445,
+        "longitud":-71.6357561
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO LA CRUZ PARTE BAJA",
+        "direccion":"GARIBALDI 115 CERRO LA CRUZ",
+        "latitud":-33.0660559,
+        "longitud":-71.6105521
+    },
+    {
+        "nombre":"JUNTA DE VECINOS DOMEYKO GAY (UV 117)",
+        "direccion":"DOMEYKO 460 PLAYA ANCHA",
+        "latitud":-33.0320566,
+        "longitud":-71.6415455
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BLANCO ENCALADA (UV 185)",
+        "direccion":"SIN SEDE SOCIAL TRICOT 190 BARRIO OHIGGINS",
+        "latitud":-33.0436902,
+        "longitud":-71.6237681
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION LA PALMERA Cº ESPERANZA",
+        "direccion":"POBLACION LA PALMERA Cº ESPERANZA",
+        "latitud":-33.0326104,
+        "longitud":-71.5641978
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO MARIPOSA (UV 22)",
+        "direccion":"SEDE JUNTA DE VECINOS UNIDAD VECINA Nº22",
+        "latitud":-33.037664,
+        "longitud":-71.632618
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PARQUE ITALIA (UV130)",
+        "direccion":"AV. FRANCIA 565 3° PISO VALPARAISO",
+        "latitud":-33.0484216,
+        "longitud":-71.6126272
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALMENDRAL (UV 128)",
+        "direccion":"YUNGAY Nº2437",
+        "latitud":-33.0455514,
+        "longitud":-71.6145747
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AVENIDA ARGENTINA (UV 127)",
+        "direccion":"EUSEBIO LILLO 450",
+        "latitud":-33.0475099,
+        "longitud":-71.6030173
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JORGE WASHINGTON (UV 122)",
+        "direccion":"AV.WASHINGTON 2229 BARRIO OHIGGINS",
+        "latitud":-33.0629848,
+        "longitud":-71.5929907
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO YUNGAY",
+        "direccion":"AV. ALEMANIA 6719 VALPARAISO",
+        "latitud":-33.0529285,
+        "longitud":-71.6247461
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EMPART (UV 40)",
+        "direccion":"A.PORVENIR 1570 DEPTO 21 PLAYA ANCHA (EX- U.V.40)",
+        "latitud":-33.0396909,
+        "longitud":-71.6478674
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AV. BRASIL (UV 131)",
+        "direccion":"CALLE RODRIGUEZ 777 VALPARAISO",
+        "latitud":-33.0498657,
+        "longitud":-71.616516
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA ITALIA (UV 157)",
+        "direccion":"CALLE VERONA 38 POB.VILLA ITALIA PLACE",
+        "latitud":-33.0513466,
+        "longitud":-71.5740296
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA EL VERGEL UV 15-A",
+        "direccion":"AV.EL VERGEL LOTE 25 PARADERO 11",
+        "latitud":-33.0603741,
+        "longitud":-71.6130143
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RITA OTAEGUI BAJO (UV 166)",
+        "direccion":"RITA OTAEGUI 50 CERRO YUNGAY",
+        "latitud":-33.0549288,
+        "longitud":-71.6270227
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION ALMIRANTE SIMPSON (UV 154)",
+        "direccion":"FUENTECILLA 752 CERRO POLANCO",
+        "latitud":-33.0481956,
+        "longitud":-71.5950808
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AURORA DE RODELILLO",
+        "direccion":"11 SEPTIEMBRE 221 AURORA DE RODELILLO",
+        "latitud":-33.0571386,
+        "longitud":-71.5768301
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TRABAJADORES UNIDOS (UV 158)",
+        "direccion":"LEONIDAS VALENZUELA 1090 L. 12 PLACERES",
+        "latitud":-33.0420814,
+        "longitud":-71.5869596
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA AMISTAD (UV 169)",
+        "direccion":"ADUANILLA 259 CERRO CORDILLERA",
+        "latitud":-33.0397494,
+        "longitud":-71.6329665
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL VERGEL ALTO CERRO LA CRUZ (UV 156)",
+        "direccion":"EL VERGEL 1268 CERRO LA CRUZ",
+        "latitud":-33.0663645,
+        "longitud":-71.6107952
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NUEVA ESPERANZA",
+        "direccion":"PJE NUEVA TOBIO CASA 11 C° ESPERANZA EX- U.V.2A",
+        "latitud":-33.0479645,
+        "longitud":-71.6470167
+    },
+    {
+        "nombre":"CHAITEN",
+        "direccion":"PASAJE CHAITEN 117 RODELILLO",
+        "latitud":-33.0481539,
+        "longitud":-71.5894034
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NUEVA ALBORADA (UV 146 A)",
+        "direccion":"CAVANCHA 166 POB.AMPLIACION 5TO SECT.",
+        "latitud":-33.048258,
+        "longitud":-71.6555939
+    },
+    {
+        "nombre":"PRESIDENTE PATRICIO AYLWIN",
+        "direccion":"AV. ANTICLEA 144 CERRO LAS CAÑAS",
+        "latitud":-33.0556448,
+        "longitud":-71.6068539
+    },
+    {
+        "nombre":"CUESTA COLORADA",
+        "direccion":"RAMADITAS N° 1856 CUESTA COLORADA",
+        "latitud":-33.067872,
+        "longitud":-71.5970603
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO MIRAFLORES (UV 74)",
+        "direccion":"CALLE ATAHUALPA 338",
+        "latitud":-33.0449769,
+        "longitud":-71.6280409
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SIMON BOLIVAR ALTO (UV 167)",
+        "direccion":"CALLE 1 S\/NPJE DIEGO PORTALES 4° SECTOR",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS COLO COLO",
+        "direccion":"SUR EL PERAL 99 CERRO RAMADITAS",
+        "latitud":-33.0407528,
+        "longitud":-71.6295309
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION VISTA AL MAR, COSTA BRAVA (UV 38-B)",
+        "direccion":"VISTA AL MAR B\/5 DEPTO 11 PORVENIR BAJO PLAYA ANCHA",
+        "latitud":-33.0362506,
+        "longitud":-71.6431786
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION JOAQUIN EDWARDS BELLO",
+        "direccion":"CALLE LA BOLSA 12 POB. J.EDWARDS BELLO",
+        "latitud":-33.0601521,
+        "longitud":-71.6381632
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BUQUE ESCUELA ESMERALDA UV 143-A",
+        "direccion":"HEROES DEL MAR SITIO 3 CERRO PLACERES",
+        "latitud":-33.0446838,
+        "longitud":-71.581441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JOAQUIN LEPELEY (UV 193)",
+        "direccion":"AV.JOQUIN LEPELEY POB. MONTEDONICO",
+        "latitud":-33.0548725,
+        "longitud":-71.6404507
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO POLANCO (UV 7)",
+        "direccion":"PASAJE TAINA 401 CERRO POLANCO",
+        "latitud":-33.0504071,
+        "longitud":-71.5986684
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VIENTO SUR ( UV 137-A)",
+        "direccion":"AV .JORGE MONTT S\/N QDA VERDE P.A",
+        "latitud":-33.0471367,
+        "longitud":-71.6152737
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION AUGUSTO GUEVARA (UV 175)",
+        "direccion":"C.ESTRELLA POLAR 44 POB.A. GUEVARA (EX U.V.124B)",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VOLUNTAD Y ESFUERZO (UV 163)",
+        "direccion":"MALLOCO 194 SAN ROQUE",
+        "latitud":-33.0658981,
+        "longitud":-71.585716
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION ARRECIFE",
+        "direccion":"POB.ARRECIFE B.C DEP. 27 2DO. SECTOR P.A.",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VISTA AL MAR (38-B)",
+        "direccion":"POBLACION VISTA AL MAR PORVENIR BAJO PLAYA ANCHA",
+        "latitud":-33.034192,
+        "longitud":-71.6509813
+    },
+    {
+        "nombre":"LOS PAJARITOS",
+        "direccion":"LOS PAJARITOS S\/N BARRIO OHIGGINS",
+        "latitud":-33.0690339,
+        "longitud":-71.5895171
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JOSE SANTOS TORNERO (UV 174)",
+        "direccion":"3° SECT. CORVI 16 DEP.24 P.ANCHA (EX U.V. 124A)",
+        "latitud":-33.0314171,
+        "longitud":-71.6345691
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LUIS BAHAMONDEZ ALVEAR",
+        "direccion":"LUIS BAHAMONDEZ N° 48",
+        "latitud":-33.0651119,
+        "longitud":-71.5717078
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION MARQUEZ (UV 183)",
+        "direccion":"CALLE MARQUEZ S\/N CERRO SANTO DOMINGO",
+        "latitud":-33.0347224,
+        "longitud":-71.6328856
+    },
+    {
+        "nombre":"JUNTA DE VECINOS UNION Y PROGRESO UV 38-A",
+        "direccion":"CALLE 23 N° 1 PORVENIR BAJO",
+        "latitud":-33.0337225,
+        "longitud":-71.6501162
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BALDOMERO CASTRO",
+        "direccion":"CALLE CANGREJA 28 CERRO MARIPOSA",
+        "latitud":-33.0587515,
+        "longitud":-71.6210391
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION LA ISLA (UV 155)",
+        "direccion":"PJE CARRACA S\/N SAN ROQUE ALTO",
+        "latitud":-33.079746,
+        "longitud":-71.58517
+    },
+    {
+        "nombre":"\"JUNTA DE VECINOS CAMINO VIEJO\" UNIDAD VECINAL 119-A",
+        "direccion":"WASHINGTON 2531",
+        "latitud":-33.0641486,
+        "longitud":-71.5914223
+    },
+    {
+        "nombre":"JUNTA DE VECINOS 21 DE MAYO (UV115-A)",
+        "direccion":"PASAJE FERHMAN S\/N P. ANCHA",
+        "latitud":-33.0331686,
+        "longitud":-71.5660437
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA PORTUARIA 123-A",
+        "direccion":"PJE RAULI S\/N SANTOS OSSA",
+        "latitud":-33.0579189,
+        "longitud":-71.5845626
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA RUDA (142-B)",
+        "direccion":"C° MARIPOSA LOTE 25-B LA RUDA PONIENTE",
+        "latitud":-33.0604449,
+        "longitud":-71.6211995
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION PORVENIR",
+        "direccion":"RAQUE S\/N PORVENIR BAJO",
+        "latitud":-33.034192,
+        "longitud":-71.6509813
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAS TORRES (12 A)",
+        "direccion":"POB.LAS TORRES CASA 111 ROCUANTO ALT.",
+        "latitud":-33.0531327,
+        "longitud":-71.6268708
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION LAUTARO (UV 195)",
+        "direccion":"PEZOA VELIZ 655 CERRO ALEGRE",
+        "latitud":-33.0533904,
+        "longitud":-71.636865
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA MANUEL RODRIGUEZ (UV 164)",
+        "direccion":"TALAGANTE 40 POB. MANUEL RODRIGUEZ",
+        "latitud":-33.0720504,
+        "longitud":-71.5827395
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TEGUALDA (UV 184)",
+        "direccion":"TEGUALDA S\/N C° LOS PLACERES",
+        "latitud":-33.0361112,
+        "longitud":-71.5935237
+    },
+    {
+        "nombre":"UNIDAD VECINAL PABLO NERUDA",
+        "direccion":"POB. ALCALDE MZ 13 CASA 3 POB.MONTEDO.",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION ARTURO PRAT",
+        "direccion":"POB. ARTURO PRAT R.HERNANDEZ",
+        "latitud":-33.052663,
+        "longitud":-71.6478699
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOMAS DE RODELILLO UV 161",
+        "direccion":"PASAJE LOS DATILES 48 LOMAS DE RODELILLO",
+        "latitud":-33.0650812,
+        "longitud":-71.5650781
+    },
+    {
+        "nombre":"JUNTA DE VECINOS METEORO",
+        "direccion":"CALLE METEORO 327 CERRO CORDILLERA",
+        "latitud":-33.0446047,
+        "longitud":-71.6371328
+    },
+    {
+        "nombre":"JUNTA DE VECINOS JARDINES DE RODELILLO (UV 160)",
+        "direccion":"CALLE CORDILLERA DE LOSANDES 694 RODEL",
+        "latitud":-33.0583657,
+        "longitud":-71.5724514
+    },
+    {
+        "nombre":"JUNTA DE VECINOS UNION POLIGONO POSADA",
+        "direccion":"POLIGONO 4 CERRO FLORIDA",
+        "latitud":-33.0539702,
+        "longitud":-71.6223213
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOS PAJARITOS (UV 12-B)",
+        "direccion":"LOS PAJARITOS S\/N BARRIO OHIGGINS",
+        "latitud":-33.0690339,
+        "longitud":-71.5895171
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAS PALMAS I (UV 190)",
+        "direccion":"AV. LAS PALMAS 285 PLACERES",
+        "latitud":-33.0591329,
+        "longitud":-71.5610372
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA REAL (UV 122A)",
+        "direccion":"CALLE EL REY N° S\/N° POB.VILLA REAL",
+        "latitud":-33.0688399,
+        "longitud":-71.5882061
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL BUEN PASTOR (UV 171)",
+        "direccion":"ISLA HUAMBLIN S\/\/N POEL EL TRIUNFO P.A. EX- U.V.45A)",
+        "latitud":-32.8928624,
+        "longitud":-71.2416649
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VARIANTE LAS PALMAS (UV 189)",
+        "direccion":"PJE PALMA DORADA 50 POB.PALMA II",
+        "latitud":-33.0326104,
+        "longitud":-71.5641978
+    },
+    {
+        "nombre":"JUNTA DE VECINOS Nº 40-A",
+        "direccion":"POB. ENRIQUE TORNERO Nº 1 PORVENIR BAJO P. ANCHA",
+        "latitud":-33.0371049,
+        "longitud":-71.6510361
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAS PALMAS II BAJO",
+        "direccion":"CABRITERIA NORTE POB. LAS PALMAS",
+        "latitud":-33.058054,
+        "longitud":-71.5634311
+    },
+    {
+        "nombre":"JUNTA DE VECINOS 27 - A (CADUCO 3\/4\/1996",
+        "direccion":"Cº SAN JUAN DE DIOS",
+        "latitud":-33.0494819,
+        "longitud":-71.6270476
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION RAMON CORDERO",
+        "direccion":"POB. RAMON CORDERO BLOCK P.ANCHA",
+        "latitud":-33.0311886,
+        "longitud":-71.6503722
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION LA EXPLANADA",
+        "direccion":"PACIFICO B\/7 DEPTO 21 PLAYA ANCHA - MIRAMAR BAJO",
+        "latitud":-33.0316776,
+        "longitud":-71.6348243
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION EL MOLINO",
+        "direccion":"3° SECT. CALLE ABELARDO NUÑEZ",
+        "latitud":-33.0540157,
+        "longitud":-71.6480874
+    },
+    {
+        "nombre":"UNIDAD VECINAL LA EXPLANADA (196 A)",
+        "direccion":"POB.LA EXPLANADA B.4DEP.34 P.ANCHA",
+        "latitud":-33.0297015,
+        "longitud":-71.6515865
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TIERRAS ROJAS (UV 182)",
+        "direccion":"CALLE PRINCIPALS\/N TIERRAS ROJAS",
+        "latitud":-33.1353244,
+        "longitud":-71.6571933
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN FRANCISCO UV 168",
+        "direccion":"POB. S. FRANCISCO S\/N C° CORDILLERA",
+        "latitud":-33.0459601,
+        "longitud":-71.6413928
+    },
+    {
+        "nombre":"ORELLA",
+        "direccion":"U.VECINAL N° 27-A SAN JUAN DE DIOS",
+        "latitud":-33.0494819,
+        "longitud":-71.6270476
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MAGISTERIO - ANGAROA",
+        "direccion":"MAGISTERIO 37 VILLA MAGISTERIO RODELILLO",
+        "latitud":-33.0608013,
+        "longitud":-71.5741033
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VIENTO SUR (UV197)",
+        "direccion":"CALLE EXPLANADA Nº 101 PACIFICO PLAYA ANCHA",
+        "latitud":-33.030461,
+        "longitud":-71.6511441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ISRAEL ROIZBLATT (UV 188)",
+        "direccion":"POB. DR ISRAEL ROIZBLATT",
+        "latitud":-33.0568096,
+        "longitud":-71.5614765
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO LA CRUZ (UV 18)",
+        "direccion":"VERGEL ESQ. TERCERO CERRO LA CRUZ",
+        "latitud":-33.058493,
+        "longitud":-71.6149599
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AURORA DE CHILE SIMON BOLIVAR ALTO (UV 84)",
+        "direccion":"LA POLVORA 39 POB.AURORA DE CHILE PLAYA ANCHA",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LUCEROS U.V. 162",
+        "direccion":"FELIPE LIPPI 617 C° RECREO",
+        "latitud":-33.0491542,
+        "longitud":-71.6005472
+    },
+    {
+        "nombre":"JUNTA DE VECINOS STELLA MARIS",
+        "direccion":"SEMINARIO 411 C° MERCED",
+        "latitud":-33.055719,
+        "longitud":-71.6028318
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CUATRO LUCES",
+        "direccion":"PRINCIPAL N° 6 POB. 4 LUCES PLACERES",
+        "latitud":-33.0446838,
+        "longitud":-71.581441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AVENIDA SANTA ELENA",
+        "direccion":"AV. SANTA ELENA S\/V VALPARAISO",
+        "latitud":-33.0559281,
+        "longitud":-71.6012995
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION MUNICIPAL (UV179)",
+        "direccion":"FARO PUNTA DE ANGELES CASA 56",
+        "latitud":-33.0225908,
+        "longitud":-71.6480599
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RENE LAGOS Y RAPA NUI (UV 66 A)",
+        "direccion":"POB.ALMTE LATORRE U.VECINAL 66 MARIPOSA",
+        "latitud":-33.0564103,
+        "longitud":-71.6053386
+    },
+    {
+        "nombre":"JUNTA DE VECINOS HERNAN MERY (UV 102-A)",
+        "direccion":"POBLACION MERY",
+        "latitud":-33.0718789,
+        "longitud":-71.5857292
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA TERESA DE RODELILLO",
+        "direccion":"AV.RODELILLO 5700 RODELILLO",
+        "latitud":-33.0662465,
+        "longitud":-71.5710276
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL BOSQUE (159-A)",
+        "direccion":"PJE 3 ESQ. CALLE 1 POB. BASICA RODELILLO",
+        "latitud":-33.0571386,
+        "longitud":-71.5768301
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA FUNDADORES DE CURAUMA (UV199)",
+        "direccion":"AVENIDA FUNDADORES 969 PLACILLA",
+        "latitud":-33.1207263,
+        "longitud":-71.5702978
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA LAGUNA",
+        "direccion":"CABRITERIA PONIENTE B.688 DEOP.21PLACERE",
+        "latitud":-33.0488145,
+        "longitud":-71.5820544
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOS VENTISQUEROS SAN RAFAEL",
+        "direccion":"POB.CABRITERIA B.1 DEP.31 P.ANCHA",
+        "latitud":-33.0316675,
+        "longitud":-71.6348372
+    },
+    {
+        "nombre":"JUNTA DE VECINOS IGUALDAD Y FRATERNIDAD",
+        "direccion":"POB.EL SAUZAL PJE GUAYACAN 51 RODELIL",
+        "latitud":-33.0538226,
+        "longitud":-71.5763515
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION MARINA MERCANTE (UV 41)",
+        "direccion":"NICARAGUA 335 DEPTO A B\/3 POBLACION M. MERCANTE PLAYA ANCHA",
+        "latitud":-33.0391812,
+        "longitud":-71.6465929
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL HUILMO UV 200",
+        "direccion":"POB. LA LAGUNA PJE CAPACHITO 45 BL 10",
+        "latitud":-33.056478,
+        "longitud":-71.5674406
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CABRITERIA PONIENTE",
+        "direccion":"CABRITERIA PONIENTE BLOCK 688 DEPTO 21",
+        "latitud":-33.0488145,
+        "longitud":-71.5820544
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL MIRADOR (139-A)",
+        "direccion":"MANZANA 1 CASA 11 POB. MONTEDONICO",
+        "latitud":-33.0548725,
+        "longitud":-71.6404507
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ISRAEL ROIZBLATT B",
+        "direccion":"ISRAEL ROIZBLATT 308 DPTO.25 CERRO PLACERES",
+        "latitud":-33.0562617,
+        "longitud":-71.562887
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SOR TERESA UV 98-A",
+        "direccion":"POB. SOR TERESA DE RAMADITAS",
+        "latitud":-33.0737199,
+        "longitud":-71.5948728
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PEQUEÑA INDUSTRIA (UV 102-B)",
+        "direccion":"PJE 2 N° 22 SAN ROQUE VALPARAISO",
+        "latitud":-33.0658543,
+        "longitud":-71.5856803
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TIRO AL BLANCO",
+        "direccion":"EL VERGEL 339 CERRO LA CRUZ",
+        "latitud":-33.0588111,
+        "longitud":-71.6146001
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CARDENAL SAMORE (UV 204)",
+        "direccion":"CALLE LOS CHAÑARES 942 VILLA CARDENAL",
+        "latitud":-33.1167986,
+        "longitud":-71.5778
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LLANOS DE CURAUMA (UV 203)",
+        "direccion":"PJE ALMERIA DEL CONJ.HABIT.LLANOS DE C",
+        "latitud":-33.1104603,
+        "longitud":-71.6751045
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA RAPA NUI",
+        "direccion":"RAPU RAPU N°210 VILLA RAPA NUI STOS OSSA",
+        "latitud":-33.063515,
+        "longitud":-71.5789794
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ESPERANZA DE LAGUNA VERDE",
+        "direccion":"CAMINO LAS DOCAS PARCELA 1567 LAGUNA VERDE",
+        "latitud":-33.1348854,
+        "longitud":-71.6733645
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BATALLA DE PLACILLA (136 A)",
+        "direccion":"CALLE SEGUNDA ESQ. POB. JOSE ARRIETA",
+        "latitud":-33.1107296,
+        "longitud":-71.5720882
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOS AROMOS U.V. Nª 122",
+        "direccion":"CAMINO ANTIGUO SANTIAGO LOS AROMOS Nº 45 SAN ROQUE",
+        "latitud":-33.5619475,
+        "longitud":-71.5841035
+    },
+    {
+        "nombre":"AGRUPACION DE JUNTAS DE VECINOS SECTOR 3",
+        "direccion":"CONSULTORIO REINA ISABEL II",
+        "latitud":-33.061114,
+        "longitud":-71.5925782
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ESFUERZO Y PROGRESO",
+        "direccion":"RAMADITAS 515 CERRO RAMADITAS",
+        "latitud":-33.0555528,
+        "longitud":-71.5997141
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LUZ DE ESPERANZA (UV 204 A)",
+        "direccion":"LAS ASTRONELIAS 819 PLACILLA",
+        "latitud":-33.114598,
+        "longitud":-71.579721
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CENTRAL PONIENTE, CERRO LOS PLACERES (UV49-A)",
+        "direccion":"AMALIA PAZ Nº 410 CERRO PLACERES",
+        "latitud":-33.0385834,
+        "longitud":-71.59418
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA MAURICIO RUGENDAS (UV 136 B)",
+        "direccion":"PLAZA DE VILLA MAURICIO RUGENDA",
+        "latitud":-33.0726251,
+        "longitud":-71.5834222
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SECTOR CURAUMILLA (UV 207)",
+        "direccion":"PARCELA CURAUMILLA SITIO 1",
+        "latitud":-33.0376562,
+        "longitud":-71.6465936
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VISTA AL MAR (143-B)",
+        "direccion":"PJE AGUILA 1 CASA 21 CERRO PLACERES",
+        "latitud":-33.0513391,
+        "longitud":-71.5660423
+    },
+    {
+        "nombre":"AGRUPACION DE JUNTAS DE VECINOS DE PLAYA ANCHA ALTO JOSE ALMIONACID MAYORGA",
+        "direccion":"3ER. SECTOR J. V. Nª 124",
+        "latitud":-33.0587493,
+        "longitud":-71.6141622
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PUERTA DEL SOL DE CURAUMA (204-B)",
+        "direccion":"LOS MAGNOLIOS C\/LOS ABEDULES CURAUMA",
+        "latitud":-33.1220661,
+        "longitud":-71.5803012
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TRIUNFADORES DE CURAUMA (UV 204-A)",
+        "direccion":"LOS LIRIOS ESQ. GUAYANCAN PLACILLA",
+        "latitud":-33.1168901,
+        "longitud":-71.5812823
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL ALAMO ( UV 45-A )",
+        "direccion":"BARBADOS 35 POB. EL ALAMO PLAYA ANCHA",
+        "latitud":-33.0447247,
+        "longitud":-71.648273
+    },
+    {
+        "nombre":"UNIDAD VECINAL NUEVA SANTA ELENA",
+        "direccion":"AV.SANTA ELENA S\/N",
+        "latitud":-33.0559281,
+        "longitud":-71.6012995
+    },
+    {
+        "nombre":"JUNTA DE VECINOS GENESIS DE CURAUMILLA",
+        "direccion":"ÀRCELA 1443 SITIO 5 CURAUMILLA",
+        "latitud":-33.0376562,
+        "longitud":-71.6465936
+    },
+    {
+        "nombre":"JUNTA DE VECINOS AVENIDA CURAUMA",
+        "direccion":"AV. CURAUMA 1153 VILL CARDENAL SAMORE",
+        "latitud":-33.1185459,
+        "longitud":-71.5802824
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAGUNA VERDE ALTO (UV 208)",
+        "direccion":"PARCELA 1165 FDO LA LAGUNA",
+        "latitud":-32.627805,
+        "longitud":-71.4243082
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION CENTRAL",
+        "direccion":"PJE OLIVILLO 25 POBLACION CENTRAL",
+        "latitud":-33.1153947,
+        "longitud":-71.5747789
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALTOS DE RODELILLO (UV 161)",
+        "direccion":"CALLE TRIWE, ALTOS DE RODELILLO",
+        "latitud":-33.0649435,
+        "longitud":-71.5649459
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VI ETAPA EL ESFUERZO PLACILLA (204-A)",
+        "direccion":"LOS JUNCOS 1132 POB. CARDENAL SAMORE, PLACILLA",
+        "latitud":-33.1196624,
+        "longitud":-71.5805097
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ELEMENTAL (UV 42)",
+        "direccion":"J. ALVAREZ ROMERO 44 1ER. SECTOR PLAYA ANCHA",
+        "latitud":-33.0392709,
+        "longitud":-71.6550274
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ELEMENTAL (UV 42)",
+        "direccion":"J. ALVAREZ ROMERO 44 1ER. SECTOR PLAYA ANCHA",
+        "latitud":-33.0392709,
+        "longitud":-71.6550274
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN JOSE MARIA (UV161-A)",
+        "direccion":"ESCRIBA DE BALAGUER 482 LOMAS DE RODELILLO",
+        "latitud":-33.0650812,
+        "longitud":-71.5650781
+    },
+    {
+        "nombre":"AGRUPACION DE JUNTAS DE VECINOS BICENTENARIO",
+        "direccion":"ESMERALDA 1059 VALPARAISO",
+        "latitud":-33.0417232,
+        "longitud":-71.6248718
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MAPUE (UV 161)",
+        "direccion":"POB. JUAN PABLO II Cº PLACERES",
+        "latitud":-33.0446838,
+        "longitud":-71.581441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TORRES DE MESANA UV 126-A",
+        "direccion":"MESANA S\/N Cº MARIPOSA",
+        "latitud":-33.0471367,
+        "longitud":-71.6152737
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ROBERTO MATTA",
+        "direccion":"UNDECIMA 1656 PLACILLA",
+        "latitud":-33.123434,
+        "longitud":-71.5640374
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAGUNA DE LA LUZ (UV 204-A)",
+        "direccion":"VILLA CARDENAL SAMORE - 7TA. ETAPA",
+        "latitud":-33.1185459,
+        "longitud":-71.5802824
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ANDORRA SUR",
+        "direccion":"PJE FUTURA 131 POBLACION ANDORRA",
+        "latitud":-33.076717,
+        "longitud":-71.584083
+    },
+    {
+        "nombre":"AGRUPACION DE JUNTAS DE VECINOS CARDENAL SAMORE",
+        "direccion":"POB. VILLA CARDENAL SAMORE - PLACILLA",
+        "latitud":-33.1185459,
+        "longitud":-71.5802824
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RENACER DE LAGUNA VERDE UV 137-B",
+        "direccion":"CALLE 4 SUR S\/N LOTE D LAGUNA VERDE",
+        "latitud":-32.9899966,
+        "longitud":-71.5263362
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALTOS DE CURAUMA (UV 203A)",
+        "direccion":"AV. CURAUNA SUR 1826 PLACILLA",
+        "latitud":-33.1255679,
+        "longitud":-71.5722562
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ROBERTO AMPUERO - Cº SAN JUAN DE DIOS (UV 27A)",
+        "direccion":"POB. M MERCANTE - Cº SAN JUAN DE DIOS",
+        "latitud":-33.0494819,
+        "longitud":-71.6270476
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA PLANCHADA",
+        "direccion":"AV. LA PLANCHADA 4317",
+        "latitud":-33.0594821,
+        "longitud":-71.5792223
+    },
+    {
+        "nombre":"AGRUPACION DE JUNTAS DE VECINOS ESPERANZA Y PLACERES",
+        "direccion":"LOS BOLDOS 50 Cº ESPERANZA",
+        "latitud":-33.0511521,
+        "longitud":-71.560702
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VALLES DE ANDORRA (UV 155-B)",
+        "direccion":"VALLE ACONCAGUA S\/N SAN ROQUE",
+        "latitud":-33.0774183,
+        "longitud":-71.5836584
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NUEVO PLACILLA (UV 145-A)",
+        "direccion":"MARTINEZ CRUZ 431 PLACILLA ORIENTE",
+        "latitud":-33.1160478,
+        "longitud":-71.5518495
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO PANTEON (UV 70-A)",
+        "direccion":"ECUADOR 382 CERRO PANTEON, VALPARAISO",
+        "latitud":-33.0263289,
+        "longitud":-71.5600034
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO PANTEON (UV 70-A)",
+        "direccion":"ECUADOR 382 CERRO PANTEON, VALPARAISO",
+        "latitud":-33.0263289,
+        "longitud":-71.5600034
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO PANTEON (UV 70-A)",
+        "direccion":"ECUADOR 382 CERRO PANTEON, VALPARAISO",
+        "latitud":-33.0263289,
+        "longitud":-71.5600034
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VECINOS UNIDOS (uv 135-B)",
+        "direccion":"OCTAVA CON QUINTA PLACILLA",
+        "latitud":-33.1207326,
+        "longitud":-71.5671907
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION UNIDOS LOS ARRECIFES",
+        "direccion":"J. CANDIA B\/B 2 DEPTO 41 2DO. SECTOR PLAYA ANCHA",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BARRIO O.HIGGINS Unidad Vecinal (UV 119-B)",
+        "direccion":"COOPERATIVA VALPARAISO BARRIO O.HIGGINS",
+        "latitud":-33.0436902,
+        "longitud":-71.6237681
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PARA UN FUTURO MEJOR (UV 186 A)",
+        "direccion":"LA FONTAINE Nº 14 Cº EL LITRE",
+        "latitud":-33.0583015,
+        "longitud":-71.6107337
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PRINCIPAL",
+        "direccion":"POBLACION SANTOS OSSA RODELILLO",
+        "latitud":-33.0571386,
+        "longitud":-71.5768301
+    },
+    {
+        "nombre":"JUNTA DE VECINOS EL VERGEL ALTO Cº LA CRUZ",
+        "direccion":"VERGEL ALTO 1941 Cº LA CRUZ",
+        "latitud":-32.8252139,
+        "longitud":-71.2266957
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PARQUE LAS ENCINAS",
+        "direccion":"CARLOS WOOSTER 111 SAN ROQUE",
+        "latitud":-33.0625092,
+        "longitud":-71.584839
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RAPA NUI (UV 205)",
+        "direccion":"RAPU RAPU 210 VILLA RAPA NUI",
+        "latitud":-33.0625862,
+        "longitud":-71.5813515
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TERESA DE CALCUTA Cº PLACERES ALTO (UV 161-E)",
+        "direccion":"POBLACION JUAN PABLO II TERESA DE CALCUTA C º PLACERES ALTO",
+        "latitud":-33.0615902,
+        "longitud":-71.5605869
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN COLUMBANO PLACERES-RODELILLO (UV 161-d)",
+        "direccion":"POB. SAN COLUMBANO Nº 599 PLACERES-RODELILLO",
+        "latitud":-33.0355715,
+        "longitud":-71.5926754
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ALTOS IDEALES DE CURAUMA",
+        "direccion":"LOS ARRAYANES 137 ALTOS DE CURAUMA",
+        "latitud":-33.1255732,
+        "longitud":-71.5723154
+    },
+    {
+        "nombre":"AGRUPACION DE JUNTAS DE VECINOS Y SOCIALES UNION PARA EL PROGRESO Cº CORDILLERA",
+        "direccion":"GUMERCINDO DIAZ S\/N PJE J. EGAÑA POB. LA UNION Cº CORDILLERA",
+        "latitud":-33.0459985,
+        "longitud":-71.6437219
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MICHELLE BACHELET (UV 161-F)",
+        "direccion":"POB. MICHELLE BACHELET JUAN PABLO II Cº PLACERES",
+        "latitud":-33.0446838,
+        "longitud":-71.581441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RAUL LOPEZ (UV135)",
+        "direccion":"POB. BAQUEDANO PJE 1 CASA 6 PLACILLA",
+        "latitud":-33.1110993,
+        "longitud":-71.5623861
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ANTUCO Cº ESPERANZA (UV 46-A)",
+        "direccion":"RIO DE LA PLATA 276 POBLACION VILLA AMERICA CERRO ESPERANZA",
+        "latitud":-33.0433288,
+        "longitud":-71.5784814
+    },
+    {
+        "nombre":"JUNTA DE VECINOS COLONIZADORES DEL ALTO - SAN ROQUE (UV 209)",
+        "direccion":"CAMINO VIEJO SANTIAGO SAN ROQUE",
+        "latitud":-33.0740893,
+        "longitud":-71.585434
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SANTA MARIA DE LA CRUZ -RODELILLO (UV 161-E)",
+        "direccion":"POB. JUAN PABLO II - RODELILLO",
+        "latitud":-33.0651352,
+        "longitud":-71.5649021
+    },
+    {
+        "nombre":"JUNTA DE VECINOS RECONSTRUYENDO PLACILLA",
+        "direccion":"GALWAY 1914PLACILLA ORIENTE",
+        "latitud":-33.1145266,
+        "longitud":-71.5522025
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LOS VOLUNTARIOS DEL Cº MERCED (uv 14)",
+        "direccion":"CARLOS ROGERS 940 Cº MERCED",
+        "latitud":-33.059033,
+        "longitud":-71.6044514
+    },
+    {
+        "nombre":"JUNTA DE VECINOS VILLA CELIA ROSA",
+        "direccion":"PIEDRA LUNA SITIO 9 VILLA CELIA ROSA",
+        "latitud":-33.1262058,
+        "longitud":-71.6682517
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CLAUDIO MIRANDA - Cº LAS CAÑAS (UV 62 - A)",
+        "direccion":"AV. ALEMANIA 435 Cº LAS CAÑAS",
+        "latitud":-33.060391,
+        "longitud":-71.6057489
+    },
+    {
+        "nombre":"CONSEJO DESARROLLO VECINAL DEL BARRIO CERRO EL LITRE",
+        "direccion":"RUIZ TAGLE 380 CERRO EL LITRE",
+        "latitud":-33.0577464,
+        "longitud":-71.6118121
+    },
+    {
+        "nombre":"JUNTA DE VECINOS HANGA ROA (UV 205-A)",
+        "direccion":"ISLA DE PASCUA - POBLACION HAN ROA RODELILLO",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUAN DE VECINOS SAN FRANCISCO DE ASSIS HIJOS DE LA TIERRA - PLACERES",
+        "direccion":"TERESA DE CALCUTA 14 V\/Q DEPRTO 404 PLACERES",
+        "latitud":-33.0368938,
+        "longitud":-71.5950801
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ORION",
+        "direccion":"E. LILLO 550",
+        "latitud":-33.0483379,
+        "longitud":-71.6030576
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CERRO YUNGAY Y PLAZUELA ECUADOR (UV 68)",
+        "direccion":"CALLE VOLTAIRE N° 664, CERRO YUNGAY",
+        "latitud":-33.0514139,
+        "longitud":-71.6240803
+    },
+    {
+        "nombre":"JUNTA DE VECINOS ELBERG ESPERANZA",
+        "direccion":"CALLE JUAN FERNANDEZ N° 1470, CERRO LA CRUZ",
+        "latitud":-33.0660558,
+        "longitud":-71.610552
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CARDENAL SAMORE SUEÑOS CUMPLIDOS",
+        "direccion":"AV. LA ARBOLEDA 723, CARDENAL SAMORE 72,",
+        "latitud":-33.1064926,
+        "longitud":-71.5730353
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAS AMERICAS (UV 93)",
+        "direccion":"CALLE CAYENA CON CALLE TEGUCIGALPA, EL PROGRESO, CERRO PLACERES (MANZANA K)",
+        "latitud":-33.0446838,
+        "longitud":-71.581441
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAGUNA SECA - LAGUNA VERDE ALTO",
+        "direccion":"HUEPIL CASA 3 LAGUNA SECA - LAGUNA VERDE ALTO",
+        "latitud":-33.1268419,
+        "longitud":-71.6731744
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LAGUNA SECA - LAGUNA VERDE ALTO",
+        "direccion":"HUEPIL CASA 3 LAGUNA SECA - LAGUNA VERDE ALTO",
+        "latitud":-33.1268419,
+        "longitud":-71.6731744
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CARDENAL SAMORE OCTAVA ETAPA (UV 204 A)",
+        "direccion":"LOS ARCES C\/ VIOLETAS 013 VILLA CARDENAL SAMORE",
+        "latitud":-33.450042,
+        "longitud":-71.6621198
+    },
+    {
+        "nombre":"CONSEJO VECINAL DE DESARROLLO JUNTA DE VECINAS Y VECINOS EJE ECUADOR DE VALPARAISO",
+        "direccion":"ECUADOR 378 CERRO PANTEON",
+        "latitud":-33.0263289,
+        "longitud":-71.5600034
+    },
+    {
+        "nombre":"JUNTA DE VECINOS 131 EL NUEVO ALMENDRAL",
+        "direccion":"LAS HERAS 527, VALPARAISO",
+        "latitud":-33.0471582,
+        "longitud":-71.616996
+    },
+    {
+        "nombre":"JUNTA DE VECINO NEWEN N° 149 - A",
+        "direccion":"ESCALA FRANCIA JUNTA DE VECINOS Nº149",
+        "latitud":-33.0473128,
+        "longitud":-71.6127458
+    },
+    {
+        "nombre":"JUNTA DE VECINOS TIERRAS ROJAS (UV 208)",
+        "direccion":"AVENIDA TIERRAS ROJAS SIN NUMERO LAGUNA VERDE",
+        "latitud":-33.1332988,
+        "longitud":-71.6608627
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PLAZA WADDINGTON (UV 115 B) (5743)",
+        "direccion":"PEDRO LEON GALLO 346, PLAYA ANCHA, VALPARAISO",
+        "latitud":-33.0296777,
+        "longitud":-71.6326862
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CONDOMINIOS UNIDOS (UV 199)",
+        "direccion":"CARDENAL SAMORE 1451 PLACILLA DE PEÑUELAS, VALPARAISO",
+        "latitud":-33.1221802,
+        "longitud":-71.5727176
+    },
+    {
+        "nombre":"JUNTA DE VECINOS MIRAMAR DE LAGUNA VERDE (UV 207)",
+        "direccion":"SECTOR MIRAMAR S\/N LAGUNA VERDE",
+        "latitud":-33.1046726,
+        "longitud":-71.6681066
+    },
+    {
+        "nombre":"JUNTA DE VECINOS LA PLANCHADA",
+        "direccion":"SEDE VECINAL N°64 LA PLANCHADA C° RODELILLO",
+        "latitud":-33.0598183,
+        "longitud":-71.5772368
+    },
+    {
+        "nombre":"JUNTA DE VECINOS QUINTO AMPLIACIÓN (UV 146)",
+        "direccion":"CALLE CAVANCHA S\/N SEDE N°146 PLAYA ANCHA",
+        "latitud":-33.0304662,
+        "longitud":-71.6352937
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN GUILLERMO, SAN NICOLAS",
+        "direccion":"AV. RODELILLO #6011 SEDE SOCIAL SAN GUILLERMO",
+        "latitud":-33.0667636,
+        "longitud":-71.5680139
+    },
+    {
+        "nombre":"JUNTA DE VECINOS COLIBRI DEL MAR LAGUNA VERDE",
+        "direccion":"SAN MARINO #1371 SITIO LAGUNA VERDE",
+        "latitud":-33.1105911,
+        "longitud":-71.686049
+    },
+    {
+        "nombre":"JUNTA DE VECINOS SAN PABLO",
+        "direccion":"SENDERO LOS EUCALIPTUS #1911 PLACILLA",
+        "latitud":-33.124231,
+        "longitud":-71.578156
+    },
+    {
+        "nombre":"JUNTA DE VECINOS BALLICA LOMAS DE QUINTAY",
+        "direccion":"LOS COLONOS C\/ 14 JUNIO QUINTAY 2 LAGUNA VERDE",
+        "latitud":-33.1857151,
+        "longitud":-71.6852769
+    }
+]

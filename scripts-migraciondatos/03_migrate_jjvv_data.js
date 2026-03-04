@@ -1,14 +1,28 @@
-require('dotenv').config({ path: '../.env' });
-const supabaseClient = require('@supabase/supabase-js'); // Changed import
-const fs = require('fs');
-const path = require('path');
+import { createClient } from '@supabase/supabase-js';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
+
+// Reemplazo de __dirname para ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Cargar .env desde la raíz del proyecto (un nivel arriba de /scripts-migraciondatos)
+dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
 // Configuración de Supabase
-const supabaseUrl = process.env.VITE_SUPABASE_URL;
-const supabaseKey = process.env.VITE_SUPABASE_ANON_KEY; // Usar la anon key para scripts de cliente si RLS lo permite, o la service_role key si es necesario
-const supabase = supabaseClient.createClient(supabaseUrl, supabaseKey); // Changed usage
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+const supabase = createClient(supabaseUrl, supabaseKey);
 
-const datosDir = path.join(__dirname, '../public/datos');
+const pathCarpeta = process.argv[2];
+if (!pathCarpeta) {
+  console.error("Por favor ingresa una carpeta. (Ej: 'node 03_migrate_jjvv_data.js Valparaiso')");
+  process.exit(1);
+}
+
+const datosDir = path.join(__dirname, '../public/datos/' + pathCarpeta + '/jjvv');
 
 async function migrateJuntasVecinos() {
   console.log('Iniciando migración de datos de Juntas de Vecinos...');
@@ -18,7 +32,7 @@ async function migrateJuntasVecinos() {
     const jjvvFiles = files.filter(file => file.endsWith('-JJVV.json'));
 
     if (jjvvFiles.length === 0) {
-      console.log('No se encontraron archivos *-JJVV.json en public/datos/');
+      console.log('No se encontraron archivos *-JJVV.json en /public/datos/' + pathCarpeta + '/jjvv');
       return;
     }
 
@@ -39,7 +53,7 @@ async function migrateJuntasVecinos() {
 
       if (comunaError) {
         console.error(`Error verificando la comuna ${idComuna}:`, comunaError.message);
-        continue; // Saltar este archivo si hay error verificando la comuna
+        continue;
       }
       if (!comunaExists) {
         console.warn(`Advertencia: La comuna con id_comuna = ${idComuna} no existe en la tabla 'comunas'. Saltando JJVV de este archivo.`);
@@ -58,7 +72,6 @@ async function migrateJuntasVecinos() {
         };
 
         if (typeof latitud === 'number' && typeof longitud === 'number') {
-          // Solo crear geometría si latitud y longitud son números válidos
           const { data: geomData, error: geomError } = await supabase.rpc('st_setsrid', {
             geom: supabase.rpc('st_makepoint', { x: longitud, y: latitud }),
             srid: 4326
@@ -73,16 +86,13 @@ async function migrateJuntasVecinos() {
         } else {
           insertData.geometria = null;
         }
-        
+
         const { error: insertError } = await supabase
           .from('juntas_vecinos')
           .insert(insertData);
 
         if (insertError) {
           console.error(`Error insertando JJVV '${nombre}' para la comuna ${idComuna}:`, insertError.message);
-          // Podrías decidir si continuar con las siguientes o detenerte
-        } else {
-          // console.log(`JJVV '${nombre}' insertada para la comuna ${idComuna}.`);
         }
       }
       console.log(`Finalizado el procesamiento de ${fileName}.`);

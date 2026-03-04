@@ -1,0 +1,230 @@
+[
+    {
+        "nombre":"JUNTA DE VECINOS N°69 SANTA MARTA",
+        "direccion":"*",
+        "latitud":-33.0576997,
+        "longitud":-71.4354594
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N°33 VIÑA DEL SOL",
+        "direccion":"*",
+        "latitud":-33.0482707,
+        "longitud":-71.4408752
+    },
+    {
+        "nombre":"JUNTA DE VECINOS CRUZ DEL SUR N°K71",
+        "direccion":"*",
+        "latitud":-33.0415653,
+        "longitud":-71.4810966
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 34 LOS ESPINOS",
+        "direccion":"*",
+        "latitud":-33.0363518,
+        "longitud":-71.4812171
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 49 JOSE MIGUEL CARRERA",
+        "direccion":"*",
+        "latitud":-33.0534261,
+        "longitud":-71.4640072
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 53 EL TRANQUE",
+        "direccion":"*",
+        "latitud":-33.051814,
+        "longitud":-71.4271265
+    },
+    {
+        "nombre":"JUNTA DE VECINOS DECIMO SECTOR",
+        "direccion":"*",
+        "latitud":-33.0622192,
+        "longitud":-71.4087844
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N°65 BELLOTO NORTE ALTO",
+        "direccion":"*",
+        "latitud":-33.049204,
+        "longitud":-71.4079714
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 6 VALENCIA ALTO",
+        "direccion":"*",
+        "latitud":-33.0473122,
+        "longitud":-71.4075981
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 5 REINALDO KNOP",
+        "direccion":"*",
+        "latitud":-33.0452234,
+        "longitud":-71.469144
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 46 COLINAS DE ORO",
+        "direccion":"*",
+        "latitud":-33.0606611,
+        "longitud":-71.4368229
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 81 HEROES DEL MAR",
+        "direccion":"*",
+        "latitud":-33.0399031,
+        "longitud":-71.4107976
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 54 LAS ROSAS",
+        "direccion":"*",
+        "latitud":-33.0398967,
+        "longitud":-71.4301055
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 3 POBLACION ARGENTINA",
+        "direccion":"*",
+        "latitud":-38.416097,
+        "longitud":-63.616672
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 28 VILLA OLIMPICA",
+        "direccion":"*",
+        "latitud":-33.0585385,
+        "longitud":-71.4565139
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N 32 CAMILO HENRIQUEZ",
+        "direccion":"*",
+        "latitud":-33.0452015,
+        "longitud":-71.4516869
+    },
+    {
+        "nombre":"JUNTA DE VECINOS E-22 BARROS ARANA",
+        "direccion":"*",
+        "latitud":-33.0551701,
+        "longitud":-71.4485215
+    },
+    {
+        "nombre":"JUNTA DE VECINOS Nº 76 LOS YUYOS",
+        "direccion":"*",
+        "latitud":-33.1688546,
+        "longitud":-71.1500351
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 12 CARLOS CONDELL",
+        "direccion":"*",
+        "latitud":-33.0514427,
+        "longitud":-71.4020477
+    },
+    {
+        "nombre":"JUNTA DE VECINOS NÂ°29 EL RETIRO",
+        "direccion":"*",
+        "latitud":-33.0343416,
+        "longitud":-71.4436906
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 66 LINCOYAN",
+        "direccion":"*",
+        "latitud":-33.0370568,
+        "longitud":-71.4027381
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 8 POBLACION VALENCIA",
+        "direccion":"*",
+        "latitud":-33.0473422,
+        "longitud":-71.4080668
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 63 PATRICIO LYNCH",
+        "direccion":"*",
+        "latitud":-33.0403511,
+        "longitud":-71.4340615
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° 31 EL BOSQUE",
+        "direccion":"*",
+        "latitud":-33.0561819,
+        "longitud":-71.4545195
+    },
+    {
+        "nombre":"JUNTA DE VECINOS Nº 82 FLOR DEL INCA",
+        "direccion":"*",
+        "latitud":-33.0452287,
+        "longitud":-71.4006192
+    },
+    {
+        "nombre":"JUNTA DE VECINOS H 96 VILLA CUMMING",
+        "direccion":"*",
+        "latitud":-33.0562822,
+        "longitud":-71.4421713
+    },
+    {
+        "nombre":"JUNTA DE VECINOS POBLACION MATEO TORO Y ZAMBRANO",
+        "direccion":"*",
+        "latitud":-33.0364002,
+        "longitud":-71.4139796
+    },
+    {
+        "nombre":"JUNTA DE VECINOS J 113 VILLA SANTA PATRICIA",
+        "direccion":"*",
+        "latitud":-33.0331574,
+        "longitud":-71.4052004
+    },
+    {
+        "nombre":"JUNTA DE VECINOS I-123 LOS PINOS III ETAPA",
+        "direccion":"*",
+        "latitud":-33.0550515,
+        "longitud":-71.4369036
+    },
+    {
+        "nombre":"JUNTA DE VECINOS I-129 VILLA MANQUEHUE",
+        "direccion":"*",
+        "latitud":-33.06434,
+        "longitud":-71.4282
+    },
+    {
+        "nombre":"JUNTA DE VECINOS I-152 VILLA BALDOMERO LILLO",
+        "direccion":"*",
+        "latitud":-33.052629,
+        "longitud":-71.4209403
+    },
+    {
+        "nombre":"JUNTA DE VECINOS COOPERATIVA INGENIERO HYATT DE LA UNIDAD VECINAL L-158",
+        "direccion":"*",
+        "latitud":-33.0710915,
+        "longitud":-71.4141787
+    },
+    {
+        "nombre":"JUNTA DE VECINOS M 163 LOS MOLLES",
+        "direccion":"*",
+        "latitud":-33.1016398,
+        "longitud":-71.3729935
+    },
+    {
+        "nombre":"JUNTA DE VECINOS PUERTO DEL NORTE II SECTOR SUR",
+        "direccion":"*",
+        "latitud":-33.0722338,
+        "longitud":-71.4282666
+    },
+    {
+        "nombre":"JUNTA DE VECINOS B-168 CASAS DE VALENCIA",
+        "direccion":"*",
+        "latitud":-33.0408923,
+        "longitud":-71.4689451
+    },
+    {
+        "nombre":"JUNTA DE VECINOS B-174 VILLA COSTA SOL",
+        "direccion":"*",
+        "latitud":-33.0509714,
+        "longitud":-71.4705407
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N°188 NUEVA 21 DE MAYO",
+        "direccion":"*",
+        "latitud":-33.0491562,
+        "longitud":-71.4463026
+    },
+    {
+        "nombre":"JUNTA DE VECINOS N° I-190 TENIENTE SERRANO CARLOS CONDELL",
+        "direccion":"*",
+        "latitud":-33.069676,
+        "longitud":-71.4133507
+    }
+]
